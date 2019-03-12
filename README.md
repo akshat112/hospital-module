@@ -1,11 +1,11 @@
 # Hospital Module
----
+
 ## Table of contents
 - [About](#About)
 - [Installation](#installation)
 - [Dependencies](#dependencies)
-- [Storing details in CSV](#storing-details-in-csv)
-- [How to test](#how-to-use)
+- [Storing details in CSV](#storing-data-in-csv)
+- [How to use](#how-to-use)
 - [Changes made](#changes-made)
 ## About
 This is the hospital module where the details of hospital can be entered and the hospital will be registered. After getting registered, the hospital authorities can login and add the details of the doctors.
