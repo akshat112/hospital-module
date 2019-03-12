@@ -5,7 +5,7 @@
 - [Installation](#installation)
 - [Dependencies](#dependencies)
 - [Storing details in CSV](#storing-details-in-csv)
-- [How to test](#how-to-test)
+- [How to test](#how-to-use)
 - [Changes made](#changes-made)
 ## About
 This is the hospital module where the details of hospital can be entered and the hospital will be registered. After getting registered, the hospital authorities can login and add the details of the doctors.
@@ -62,7 +62,7 @@ The app will start listening in the port `3000`. Open up the browser and visit: 
 The hospital registration and login page will will appear. Register with the hospital details and then login.
 After logging in, add the details of the doctor and submit to see the results.
 
-### Changes made
+## Changes made
 - Added fileds for doctor specialization, available from time and available to time.
 - Added the feature where submitting the form with doctor details automatically updates the doctors.csv file and add the details of the doctor.
 - Fixed the code where visiting `add_doctor` route automatically makes a blank entry in the database
